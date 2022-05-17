@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%50World!&desc=Hello%20capsule%20render)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=welcome&fontSize=90)
 
 
 
@@ -46,3 +46,5 @@
   <img src="https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=Bitrise&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&fontSize=90)
