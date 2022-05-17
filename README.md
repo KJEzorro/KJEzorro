@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=90)
 
 
 
@@ -47,4 +47,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90)
